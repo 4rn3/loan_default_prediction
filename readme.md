@@ -1,0 +1,1 @@
+In this project i will be using the [HMEQ dataset](https://www.kaggle.com/datasets/ajay1735/hmeq-data/data) to predict which customers will default on their loan and which customers will payback their loan
